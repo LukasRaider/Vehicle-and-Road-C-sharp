@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\bin\Debug\net6.0\VehicleAndRoad.exe
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\bin\Debug\net6.0\VehicleAndRoad.deps.json
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\bin\Debug\net6.0\VehicleAndRoad.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\bin\Debug\net6.0\VehicleAndRoad.dll
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\bin\Debug\net6.0\VehicleAndRoad.pdb
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\obj\Debug\net6.0\VehicleAndRoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\obj\Debug\net6.0\VehicleAndRoad.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\obj\Debug\net6.0\VehicleAndRoad.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\obj\Debug\net6.0\VehicleAndRoad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\obj\Debug\net6.0\VehicleAndRoad.dll
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\obj\Debug\net6.0\refint\VehicleAndRoad.dll
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\obj\Debug\net6.0\VehicleAndRoad.pdb
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\obj\Debug\net6.0\VehicleAndRoad.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CSharp\Repeate\VehicleAndRoad\obj\Debug\net6.0\ref\VehicleAndRoad.dll
